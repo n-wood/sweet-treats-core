@@ -33,6 +33,7 @@ ehthumbs.db
 Thumbs.db
 
 */target/**
+/target
 
 ### IntelliJ IDEA ###
 .idea
